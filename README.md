@@ -17,9 +17,7 @@ Repo for SIET AWS Assignments
 
 
 # 3 AWS 3 Tier Architecture Implementation
-
-## Please add the screenshot of the final page of the AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+![Screenshot 2025-03-28 162028](https://github.com/user-attachments/assets/fe79d2ac-47cf-428d-85a0-c12a6e5d379d)
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
 > Replace this line while adding the screenshot / answer
