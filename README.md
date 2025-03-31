@@ -18,6 +18,8 @@ Repo for SIET AWS Assignments
 
 # 3 AWS 3 Tier Architecture Implementation
 ![Screenshot 2025-03-28 162028](https://github.com/user-attachments/assets/fe79d2ac-47cf-428d-85a0-c12a6e5d379d)
+![Screenshot 2025-03-28 162123](https://github.com/user-attachments/assets/482c44e0-73e0-4722-9b5f-4b8aa4522129)
+URL to dev.to : https://dev.to/harinivas_m_00360dd83f42/aws-3-tier-architecture-implementation-1o2p 
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
 > Replace this line while adding the screenshot / answer
@@ -35,6 +37,6 @@ URL: https://catalog.workshops.aws/aws101/en-US
 
 # 5 AWS Service
 Title : AWS HealthLake                                                                                                                   
-Link for the Blog : https://dev.to/harinivas_m_00360dd83f42/aws-healthlake-40j2
+URL to dev.to : https://dev.to/harinivas_m_00360dd83f42/aws-healthlake-40j2
 
 
