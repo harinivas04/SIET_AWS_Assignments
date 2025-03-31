@@ -34,7 +34,7 @@ URL: https://catalog.workshops.aws/aws101/en-US
 
 
 # 5 AWS Service
-Title : AWS HealthLake
+Title : AWS HealthLake                                                                                                                   
 Link for the Blog : https://dev.to/harinivas_m_00360dd83f42/aws-healthlake-40j2
 
 
