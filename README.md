@@ -2,10 +2,7 @@
 Repo for SIET AWS Assignments
 
 # 1 ETC
-
-## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
-> Replace this line while adding the screenshot / answer
-
+![image](https://github.com/user-attachments/assets/748194c7-54d1-4cc8-bcd7-bfcc6c23eea9)
 
 # 2 AWS Cloud Quest Badge
 
@@ -19,19 +16,12 @@ Repo for SIET AWS Assignments
 # 3 AWS 3 Tier Architecture Implementation
 ![Screenshot 2025-03-28 162028](https://github.com/user-attachments/assets/fe79d2ac-47cf-428d-85a0-c12a6e5d379d)
 ![Screenshot 2025-03-28 162123](https://github.com/user-attachments/assets/482c44e0-73e0-4722-9b5f-4b8aa4522129)
-
 URL to dev.to : https://dev.to/harinivas_m_00360dd83f42/aws-3-tier-architecture-implementation-1o2p 
-
 
 # 4 AWS 101 Workshop
 URL: https://catalog.workshops.aws/aws101/en-US
-
-## Please add the screenshot of the final page of the AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
-
-## Please add a URL of your dev.to blog containing the screenshots of AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
-
+![screenshot 2025-03-31 151621](https://github.com/user-attachments/assets/79eae06d-422c-49b9-80f4-d3b1450f21c4)
+URL to dev.to : https://dev.to/harinivas_m_00360dd83f42/aws-101-workshop-44m6
 
 # 5 AWS Service
 Title : AWS HealthLake                                                                                                                   
