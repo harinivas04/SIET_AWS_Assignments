@@ -34,8 +34,7 @@ URL: https://catalog.workshops.aws/aws101/en-US
 
 
 # 5 AWS Service
-
-## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
-> Replace this line while adding the screenshot / answer
+Title : AWS HealthLake
+Link for the Blog : https://dev.to/harinivas_m_00360dd83f42/aws-healthlake-40j2
 
 
