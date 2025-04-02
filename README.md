@@ -2,7 +2,8 @@
 Repo for SIET AWS Assignments
 
 # 1 ETC
-![image](https://github.com/user-attachments/assets/748194c7-54d1-4cc8-bcd7-bfcc6c23eea9)
+![image](https://github.com/user-attachments/assets/c266f674-56dd-4dcc-a7fb-6d9d0d8c0cb4)
+
 
 # 2 AWS Cloud Quest Badge
 
