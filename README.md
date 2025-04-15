@@ -6,13 +6,8 @@ Repo for SIET AWS Assignments
 
 
 # 2 AWS Cloud Quest Badge
-
-## Please add a screenshot of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
-
-## Please add a URL of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
-
+![image](https://github.com/user-attachments/assets/a3bc1986-8c14-4cce-9346-0aa65b46e27f)
+URL to Credly : https://www.credly.com/badges/15b0e2f8-5a15-4769-86e6-4ef147a91569/public_url
 
 # 3 AWS 3 Tier Architecture Implementation
 ![Screenshot 2025-03-28 162028](https://github.com/user-attachments/assets/fe79d2ac-47cf-428d-85a0-c12a6e5d379d)
